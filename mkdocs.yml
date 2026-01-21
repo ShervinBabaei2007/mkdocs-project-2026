@@ -1,13 +1,9 @@
-# ==========================
 # Site Information
-# ==========================
 site_name: Shervin Babaei Documentation
 site_url: https://sitename.example
 copyright: "Copyright © 2026 Shervin Babaei"
 
-# ==========================
 # Theme Configuration
-# ==========================
 theme:
   name: material
   logo: assets/shb.png
@@ -17,9 +13,6 @@ theme:
     code: Red Hat Mono
   features:
     - navigation.footer
-    - navigation.instant      # Faster page loads
-    - navigation.sections     # Group navigation items
-    - header.autohide        # Auto-hide header on scroll (optional)
   palette:
     # Dark Mode
     - scheme: slate
@@ -36,9 +29,7 @@ theme:
         icon: material/weather-night
         name: Light mode
 
-# ==========================
 # Markdown Extensions
-# ==========================
 markdown_extensions:
   - attr_list
   - admonition
@@ -60,16 +51,8 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.details
 
-# ==========================
 # Extra Configuration
-# ==========================
-extra:
-  social:
-    - icon: simple/youtube
-      link: https://youtube.com/@james-willett
-
-# ==========================
-# Custom CSS (for hamburger menu)
-# ==========================
-extra_css:
-  - stylesheets/extra.css
+# extra:
+  # social:
+    # - icon: simple/youtube
+      # link: https://youtube.com/@james-willett
