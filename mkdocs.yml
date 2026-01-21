@@ -41,15 +41,6 @@ theme:
     - navigation.sections        # Group sidebar navigation by section
 
 # ==========================
-# Plugins
-# ==========================
-plugins:
-  - search:
-      lang: en
-  - mkdocstrings  # optional: auto-doc generation from code
-  # add other plugins if needed for diagrams, analytics, etc.
-
-# ==========================
 # Markdown Extensions
 # ==========================
 markdown_extensions:
@@ -98,11 +89,3 @@ extra_javascript:
 
 extra_css:
   - assets/css/custom.css  # optional: override or add custom styles
-
-# ==========================
-# Future-Proof Notes
-# ==========================
-# - Use plugins like mkdocstrings for auto-doc generation from code
-# - Keep fonts and palette defined in theme for maintainability
-# - Markdown extensions like tasklist, details, and footnotes improve academic/professional readability
-# - extra_javascript loads Mermaid for diagrams, good for CS documentation
