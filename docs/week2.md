@@ -42,8 +42,8 @@ One example is [ProboMedical](https://www.probomedical.com/), which is similar t
 
 Another example is [GE Healthcare](https://shop.gehealthcare.ca/gehcstorefront/). Although it resembles my project concept, the layout and organization feel inconsistent, and the overall design lacks clarity and focus.
 
-![ProboMedical website](./assets/images/ProboMedical.png)
+![ProboMedical website](./assets/images/probomedical.png)
 *Figure 1: ProboMedical homepage*
 
-![GE Healthcare Shop website](./assets/images/GE%20HealthCareShop.png)
+![GE Healthcare Shop website](./assets/images/GEHealthCareShop.png)
 *Figure 2: GE Healthcare Shop homepage*
