@@ -1,34 +1,61 @@
+# ==========================
+# Site Info
+# ==========================
 site_name: Shervin Babaei Documentation
 site_url: https://sitename.example
+site_author: Shervin Babaei
+copyright: "Copyright © 2026 Shervin Babaei"
 
+# ==========================
+# Theme Configuration
+# ==========================
 theme:
   name: material
+  logo: assets/shb.png
+  favicon: assets/favicon.ico
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  logo: assets/shb.png
-  favicon: assets/favicon.ico
-  features:
-    - navigation.footer
   palette:
     # Dark Mode
     - scheme: slate
+      primary: green
+      accent: deep purple
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
-
     # Light Mode
     - scheme: default
+      primary: blue
+      accent: deep orange
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
-      accent: deep orange
+  features:
+    - navigation.footer          # Footer navigation
+    - navigation.instant         # Instant page load
+    - navigation.top             # Back to top button
+    - navigation.tracking        # Highlights active page
+    - toc.integrate              # Embed page table of contents
+    - content.code.copy          # Add copy buttons for code blocks
+    - navigation.sections        # Group sidebar navigation by section
 
+# ==========================
+# Plugins
+# ==========================
+plugins:
+  - search:
+      lang: en
+  - mkdocstrings  # optional: auto-doc generation from code
+  # add other plugins if needed for diagrams, analytics, etc.
+
+# ==========================
+# Markdown Extensions
+# ==========================
 markdown_extensions:
   - attr_list
+  - admonition
+  - footnotes
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -45,12 +72,37 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
-  - admonition
   - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.betterem
+  - pymdownx.smartsymbols
 
+# ==========================
+# Extra Configuration
+# ==========================
 extra:
   social:
     - icon: simple/youtube
       link: https://youtube.com/@james-willett
+    - icon: simple/github
+      link: https://github.com/yourusername
+    - icon: simple/linkedin
+      link: https://linkedin.com/in/yourname
 
-copyright: Copyright © 2026 Shervin Babaei
+# ==========================
+# Extra JS/CSS (optional)
+# ==========================
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+
+extra_css:
+  - assets/css/custom.css  # optional: override or add custom styles
+
+# ==========================
+# Future-Proof Notes
+# ==========================
+# - Use plugins like mkdocstrings for auto-doc generation from code
+# - Keep fonts and palette defined in theme for maintainability
+# - Markdown extensions like tasklist, details, and footnotes improve academic/professional readability
+# - extra_javascript loads Mermaid for diagrams, good for CS documentation
