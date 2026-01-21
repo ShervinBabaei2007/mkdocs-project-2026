@@ -3,7 +3,16 @@
 # ==========================
 site_name: Shervin Babaei Documentation
 site_url: https://sitename.example
+site_description: Personal documentation and knowledge base
+site_author: Shervin Babaei
 copyright: "Copyright © 2026 Shervin Babaei"
+
+# ==========================
+# Repository (if applicable)
+# ==========================
+# repo_url: https://github.com/yourusername/yourrepo
+# repo_name: yourrepo
+# edit_uri: edit/main/docs/
 
 # ==========================
 # Theme Configuration
@@ -12,33 +21,53 @@ theme:
   name: material
   logo: assets/shb.png
   favicon: assets/favicon.ico
+  language: en
   font:
     text: Merriweather Sans
     code: Red Hat Mono
   features:
     - navigation.footer
+    - navigation.tabs           # Top-level tabs
+    - navigation.sections       # Collapsible sections
+    - navigation.top           # Back-to-top button
+    - search.suggest           # Search suggestions
+    - search.highlight         # Highlight search terms
+    - content.code.copy        # Copy button for code blocks
+    - content.tabs.link        # Link content tabs
   palette:
     # Dark Mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: green
       accent: deep purple
       toggle:
         icon: material/weather-sunny
-        name: Dark mode
+        name: Switch to light mode
     # Light Mode
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: blue
       accent: deep orange
       toggle:
         icon: material/weather-night
-        name: Light mode
+        name: Switch to dark mode
+
+# ==========================
+# Plugins
+# ==========================
+plugins:
+  - search:
+      lang: en
+  # - tags  # If you use tags in your docs
 
 # ==========================
 # Markdown Extensions
 # ==========================
 markdown_extensions:
   - attr_list
+  - md_in_html
   - admonition
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -55,7 +84,11 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
-  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
+      toc_depth: 3
 
 # ==========================
 # Extra Configuration
@@ -64,3 +97,14 @@ extra:
   social:
     - icon: simple/youtube
       link: https://youtube.com/@james-willett
+      name: YouTube Channel
+  # generator: false  # Removes "Made with Material for MkDocs" footer
+
+# ==========================
+# Navigation (optional but recommended)
+# ==========================
+# nav:
+#   - Home: index.md
+#   - Getting Started: getting-started.md
+#   - Guides:
+#       - Guide 1: guides/guide1.md
