@@ -1,9 +1,8 @@
 # ==========================
-# Site Info
+# Site Information
 # ==========================
 site_name: Shervin Babaei Documentation
 site_url: https://sitename.example
-site_author: Shervin Babaei
 copyright: "Copyright © 2026 Shervin Babaei"
 
 # ==========================
@@ -16,6 +15,8 @@ theme:
   font:
     text: Merriweather Sans
     code: Red Hat Mono
+  features:
+    - navigation.footer
   palette:
     # Dark Mode
     - scheme: slate
@@ -31,14 +32,6 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-  features:
-    - navigation.footer          # Footer navigation
-    - navigation.instant         # Instant page load
-    - navigation.top             # Back to top button
-    - navigation.tracking        # Highlights active page
-    - toc.integrate              # Embed page table of contents
-    - content.code.copy          # Add copy buttons for code blocks
-    - navigation.sections        # Group sidebar navigation by section
 
 # ==========================
 # Markdown Extensions
@@ -46,7 +39,6 @@ theme:
 markdown_extensions:
   - attr_list
   - admonition
-  - footnotes
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -64,10 +56,6 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.details
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.betterem
-  - pymdownx.smartsymbols
 
 # ==========================
 # Extra Configuration
@@ -76,16 +64,3 @@ extra:
   social:
     - icon: simple/youtube
       link: https://youtube.com/@james-willett
-    - icon: simple/github
-      link: https://github.com/yourusername
-    - icon: simple/linkedin
-      link: https://linkedin.com/in/yourname
-
-# ==========================
-# Extra JS/CSS (optional)
-# ==========================
-extra_javascript:
-  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
-
-extra_css:
-  - assets/css/custom.css  # optional: override or add custom styles
