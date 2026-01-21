@@ -1,0 +1,29 @@
+/* Force hamburger menu on all screen sizes */
+.md-nav__toggle ~ .md-nav__list {
+  display: none;
+}
+
+.md-nav__toggle:checked ~ .md-nav__list {
+  display: block;
+}
+
+/* Always show hamburger icon */
+.md-nav__title {
+  display: block !important;
+}
+
+/* Hide desktop navigation drawer by default */
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary .md-nav__list {
+    display: none;
+  }
+
+  .md-nav--primary .md-nav__toggle:checked ~ .md-nav__list {
+    display: block;
+  }
+}
+
+/* Ensure hamburger icon is visible */
+.md-nav__title .md-nav__button {
+  display: block !important;
+}
