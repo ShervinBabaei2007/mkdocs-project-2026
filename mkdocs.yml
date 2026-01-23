@@ -3,21 +3,6 @@ site_name: Shervin Babaei Documentation
 site_url: https://sitename.example
 copyright: "Copyright © 2026 Shervin Babaei"
 
-# Navigation
-nav:
-  - Home: index.md
-  - Tutorial Guide:
-    - Overview: tutorial-guide/overview.md
-    - Getting Started: tutorial-guide/getting-started.md
-    - Formatting:
-      - Admonitions: tutorial-guide/formatting/admonitions.md
-      - Content Tabs: tutorial-guide/formatting/content-tabs.md
-      - Code Examples: tutorial-guide/formatting/code-examples.md
-    - Diagrams: tutorial-guide/diagrams/diagram-examples.md
-    - Weekly Lessons:
-      - Week 1: tutorial-guide/weekly-lessons/week1.md
-      - Week 2: tutorial-guide/weekly-lessons/week2.md
-
 # Theme Configuration
 theme:
   name: material
