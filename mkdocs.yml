@@ -6,12 +6,6 @@ copyright: "Copyright © 2026 Shervin Babaei"
 # Navigation
 nav:
   - Home: index.md
-  - Guides:
-      - Admonitions: guides/admonitions.md
-      - Content Tabs: guides/content-tabs.md
-  - Examples:
-      - Code Examples: examples/code-examples.md
-      - Diagram Examples: examples/diagram-examples.md
   - Weekly Reflections:
       - Week 1 - Communication/UX Class: weeks/week1.md
       - Week 2 - Reflection: weeks/week2.md
