@@ -23,7 +23,7 @@ theme:
     - navigation.footer
   palette:
     # Dark Mode
-    - scheme: slate
+    - scheme: blue gray
       primary: green
       accent: deep purple
       toggle:
