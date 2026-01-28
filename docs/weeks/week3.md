@@ -1,6 +1,4 @@
-# Week 3 Reflection
-
-## 1. What I Worked on in ACIT 2811
+# Week 3 What I Worked on in ACIT 2811
 
 This week focused on understanding users more deeply by creating **personas**, **user stories**, and **user scenarios**. Instead of guessing what users want, we had to clearly define who they are, what they need, and how they would realistically interact with the website.
 
@@ -8,7 +6,7 @@ This step helped slow me down and think before jumping into design solutions.
 
 ---
 
-## 2. Personas
+## 1. Personas
 
 I created two primary personas to represent the main users of the Pacific Northwest X-Ray website.
 
@@ -20,7 +18,7 @@ Creating these personas helped me design for **real people with different goals*
 
 ---
 
-## 3. User Stories
+## 2. User Stories
 
 User stories helped translate each persona’s needs into clear goals. Writing them in the “As a user, I want…” format made it easier to stay focused on outcomes instead of features.
 
@@ -33,7 +31,7 @@ These stories clarified *why* certain features matter and helped prioritize what
 
 ---
 
-## 4. User Scenarios
+## 3. User Scenarios
 
 User scenarios allowed me to walk through realistic tasks step by step, such as:
 
@@ -45,7 +43,7 @@ Mapping these flows showed where the current PNWX website creates friction and w
 
 ---
 
-## 5. What I Learned
+## 4. What I Learned
 
 This week reinforced how important it is to **design from the user’s perspective**, not my own. Personas, stories, and scenarios gave structure to my thinking and made design decisions easier to justify.
 
