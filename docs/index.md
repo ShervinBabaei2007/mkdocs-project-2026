@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Welcome to Shervin Babaei's Document
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This project is written for **non-technical** users in the **medical imaging field**, including X-ray technicians, radiology staff, clinic managers, small healthcare providers, and buyers looking for X-ray equipment or parts.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+The content and design decisions prioritize **_clarity, simplicity, and task completion_** rather than technical depth or internal business terminology. The goal is to help users quickly find products, understand information, and make confident decisions without feeling overwhelmed.
