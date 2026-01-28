@@ -1,34 +1,25 @@
-# Week 1 Communication / UX
+# Week 1: Communication & UX
 
-## What were you tasked to do (Comm/UX)
+## 1. Task Overview
 
-1. Identify a website with poor UX and communication.
-2. Use the selected website throughout the course to document my design and analysis process.
+For this course, I was asked to identify a website with poor user experience and communication, then use it throughout the term to document my design and analysis process.
 
-## How did you do it / Which website you chose
+## 2. Website Selection Process
 
-- I reviewed X-ray–related websites with weak UX and communication.
-- I considered three options:
-  - [Craigslist](https://www.craigslist.com)
-  - [West Vancouver Rec Center](https://westvancouver.ca/parks-recreation/facilities/west-vancouver-community-centre-aquatic-centre)
-  - [Pacific Northwest X-Ray Inc.](https://www.pnwx.com/)
-- After evaluation and discussion using ChatGPT, I selected **Pacific Northwest X-Ray Inc.**
+I began by reviewing X-ray–related websites with weak UX and communication. After narrowing down my options to three candidates—[Craigslist](https://www.craigslist.com), the [West Vancouver Recreation Center](https://westvancouver.ca/parks-recreation/facilities/west-vancouver-community-centre-aquatic-centre), and [Pacific Northwest X-Ray Inc.](https://www.pnwx.com/)—I evaluated each through discussion and analysis using ChatGPT. Ultimately, I selected **Pacific Northwest X-Ray Inc.** as my focus.
 
-### Why did I choose this website?
+## 3. Rationale for Selection
 
-1. The design feels visually cluttered, with excessive colors and inconsistent styling.
-2. The frequent use of yellow underlined links reduces emphasis on the most important content.
-3. Many links compete for attention; I would reduce and condense them into fewer, higher-priority options to improve readability and user interaction.
+This website stood out for several UX issues. The design feels visually cluttered, with excessive colors and inconsistent styling that detract from the user experience. The frequent use of yellow underlined links reduces emphasis on the most important content, making it difficult for users to prioritize information. Additionally, many links compete for attention across the interface. I believe condensing these into fewer, higher-priority options would significantly improve readability and user interaction.
 
 ![Website Screenshot](../assets/images/Website.png)
+
 [Visit the website](https://www.pnwx.com/)
 
-### Are you working alone or in a team? Why?
+## 4. Working Approach
 
-- I am working alone to maintain focus and strengthen my critical and analytical thinking.
+I am working alone on this project to maintain focus and strengthen my critical and analytical thinking skills.
 
-### What are you hoping to get out of this class?
+## 5. Course Goals
 
-1. Understand the UX documentation and design process, including work done in Figma.
-2. Improve my writing, critical thinking, and analytical skills.
-3. Redesign the website over the summer and propose it to the owners or include it in my portfolio.
+Through this class, I'm hoping to gain a comprehensive understanding of the UX documentation and design process, including hands-on work in Figma. I also want to improve my writing, critical thinking, and analytical skills. Looking ahead, I plan to redesign the website over the summer and either propose it to the owners or include it in my portfolio as a case study.
