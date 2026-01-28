@@ -81,6 +81,7 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
+  - tables
   - toc:
       permalink: false
       toc_depth: 3
@@ -96,9 +97,7 @@ markdown_extensions:
       pygments_lang_class: true
       auto_title: true
   - pymdownx.inlinehilite
-  - pymdownx.snippets:
-      auto_append:
-        - includes/abbreviations.md
+  - pymdownx.snippets
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -113,11 +112,16 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.keys
   - pymdownx.smartsymbols
+  - pymdownx.critic:
+      mode: view
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
 
   # Lists and tables
   - pymdownx.tasklist:
       custom_checkbox: true
-  - tables
+      clickable_checkbox: true
 
   # Emoji and icons
   - pymdownx.emoji:
