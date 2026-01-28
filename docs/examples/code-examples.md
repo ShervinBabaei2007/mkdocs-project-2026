@@ -1,4 +1,4 @@
-An example of codeblock for py
+# An Example of Codeblock for Python
 
 ```py title="add_numbers.py" linenums="1"
 # Function to add two numbers

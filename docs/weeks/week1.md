@@ -8,7 +8,7 @@
 
 ## How did you do it / Which website you chose
 
-- I searched for websites related to the field of X-ray  that showed weak UX and communication practices.
+- I searched for websites related to the field of X-ray that showed weak UX and communication practices.
 
 - I had 3 choices:
   - Craigslist [website](https://www.craigslist.com)
@@ -25,12 +25,12 @@
 
 3. The rest of them I would not consider worth highlighting/underlining, because there is just too much information. In addition to this I would cut half of them and condense them into 8 total links, for better readability and average user interaction.
 
-![Website](assets/images/Website.png)
+![Website](../assets/images/Website.png)
 [Link to website](https://www.pnwx.com/)
 
 ### Are you working alone or in a team? Why?
 
-- I am working alone because, I  thought it would be easier to focus on **1** thing that interests me.
+- I am working alone because, I thought it would be easier to focus on **1** thing that interests me.
 - Also working with other people may have been easier for long term, however, I believe that working alone can boost my critical thinking and analytic thinking.
 
 ### What are you hoping to get out of this class(s)

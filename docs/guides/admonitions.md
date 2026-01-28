@@ -1,4 +1,4 @@
-Example of an admonition/callback
+# Example of an admonition/callback
 
 !!! note "Title of the callout"
 
