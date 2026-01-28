@@ -23,9 +23,9 @@ theme:
     - navigation.footer
   palette:
     # Dark Mode
-    - scheme: blue gray
-      primary: green
-      accent: deep purple
+    - scheme: slate
+      primary: light blue
+      accent: blue
       toggle:
         icon: material/weather-sunny
         name: Dark mode
