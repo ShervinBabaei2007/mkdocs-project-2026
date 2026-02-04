@@ -6,7 +6,7 @@ This process reinforced the idea that good design starts with understanding the 
 
 ---
 
-## Problem Statement & The Five Ws
+## 1. Problem Statement & The Five Ws
 
 Writing a problem statement helped me step back and focus on **what problem the website is actually trying to solve**. Using the Five Ws gave structure to my thinking and prevented vague assumptions.
 
@@ -18,7 +18,7 @@ Writing a problem statement helped me step back and focus on **what problem the 
 
 ---
 
-## Scope & Feature Definition
+## 2. Scope & Feature Definition
 
 Defining the scope helped set realistic boundaries for the project. Listing what would and would not be implemented ensured that the focus stayed on **structure and clarity**, rather than advanced functionality or visuals.
 
@@ -26,7 +26,7 @@ This step made it easier to prioritize essential work and avoid feature creep.
 
 ---
 
-## Ideation Process
+## 3. Ideation Process
 
 The ideation phase encouraged generating ideas without judgment. Techniques such as brainstorming, worst possible ideas, and Crazy 8s helped expand my thinking and explore a wide range of possibilities.
 
@@ -40,7 +40,7 @@ Overall, this phase emphasized generating a high quantity of ideas rather than f
 
 ---
 
-## Information Architecture (IA)
+## 4. Information Architecture (IA)
 
 Information Architecture tied everything together by focusing on how users find information.
 
@@ -53,7 +53,7 @@ This step showed how organization directly affects usability.
 
 ---
 
-## What I Learned
+## 5. What I Learned
 
 This week taught me the importance of **problem-first thinking**. By clearly defining users, goals, and structure early on, future design and development decisions become easier to justify and more user-focused.
 
