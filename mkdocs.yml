@@ -5,7 +5,7 @@ site_author: Shervin Babaei
 copyright: "Copyright © 2026 Shervin Babaei"
 
 nav:
-  - Home: home.md
+  - Home: index.md
   - Reflections:
       - Overview: weeks/index.md
       - Week 1 - Communication & UX: weeks/week1.md
