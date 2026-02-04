@@ -7,7 +7,6 @@ copyright: "Copyright © 2026 Shervin Babaei"
 nav:
   - Home: index.md
   - Reflections:
-      - Overview: weeks/index.md
       - Week 1 - Communication & UX: weeks/week1.md
       - Week 2 - Usability Factors: weeks/week2.md
       - Week 3 - User-Centered Design: weeks/week3.md
