@@ -1,16 +1,17 @@
 site_name: Shervin Babaei Documentation
 site_url: https://sitename.example
-site_description: Professional documentation and weekly reflections on UX, design, and development
+site_description: Weekly reflections on UX design, usability, and development practices
 site_author: Shervin Babaei
-copyright: "Copyright © 2026 Shervin Babaei. All rights reserved."
+copyright: "Copyright © 2026 Shervin Babaei"
 
 nav:
   - Home: index.md
   - Reflections:
-      - Week 1 - Communication/UX: weeks/week1.md
-      - Week 2 - Reflection: weeks/week2.md
-      - Week 3 - Reflection: weeks/week3.md
-      - Week 4 - Reflection: weeks/week4.md
+      - Overview: weeks/index.md
+      - Week 1 - Communication & UX: weeks/week1.md
+      - Week 2 - Usability Factors: weeks/week2.md
+      - Week 3 - User-Centered Design: weeks/week3.md
+      - Week 4 - Ideation: weeks/week4.md
 
 theme:
   name: material
@@ -18,40 +19,32 @@ theme:
   favicon: assets/images/favicon.ico
   language: en
   font:
-    text: Merriweather Sans
-    code: Red Hat Mono
+    text: Roboto
+    code: Roboto Mono
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.sections
-    - navigation.expand
     - navigation.top
-    - navigation.footer
-    - navigation.indexes
     - search.suggest
     - search.highlight
-    - search.share
     - content.code.copy
-    - content.code.annotate
-    - content.tabs.link
-    - content.tooltips
     - toc.follow
-    - toc.integrate
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: light blue
-      accent: cyan
+      primary: cyan
+      accent: light blue
       toggle:
-        icon: material/weather-sunny
+        icon: material/brightness-4
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: blue
-      accent: deep orange
+      accent: cyan
       toggle:
-        icon: material/weather-night
+        icon: material/brightness-7
         name: Switch to dark mode
 
 markdown_extensions:
@@ -62,48 +55,36 @@ markdown_extensions:
   - md_in_html
   - tables
   - toc:
-      permalink: false
+      permalink: true
+      permalink_title: Anchor link
       toc_depth: 3
   - admonition
   - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
-      auto_title: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.betterem:
-      smart_enable: all
+  - pymdownx.betterem
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.keys
   - pymdownx.smartsymbols
-  - pymdownx.critic:
-      mode: view
-  - pymdownx.magiclink:
-      normalize_issue_symbols: true
-      repo_url_shorthand: true
   - pymdownx.tasklist:
       custom_checkbox: true
-      clickable_checkbox: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.tabbed:
-      alternate_style: true
-      combine_header_slug: true
 
 plugins:
   - search:
-      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
       lang: en
 
-extra_css:
-  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername
+      name: GitHub Profile
