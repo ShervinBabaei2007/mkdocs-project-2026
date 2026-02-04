@@ -9,14 +9,5 @@ This site documents my journey learning:
 - Usability principles and heuristics
 - Design thinking methodologies
 - User research and testing approaches
-- Web development best practices
-- Real-world application of UX concepts
 
-## Weekly Reflections
-
-Each week, I explore different topics through hands-on projects and thoughtful analysis. Navigate to the Reflection section to see my learning progression.
-
----
-
-**Course:** ACIT 2811 - UX/UI
-**Term:** Winter 2026
+Browse the [weekly reflections](/weeks/) to see my learning progression.
