@@ -1,27 +1,17 @@
-# Site Information
 site_name: Shervin Babaei Documentation
 site_url: https://sitename.example
 site_description: Professional documentation and weekly reflections on UX, design, and development
 site_author: Shervin Babaei
 copyright: "Copyright © 2026 Shervin Babaei. All rights reserved."
 
-# Repository (optional - uncomment if you have a GitHub repo)
-# repo_url: https://github.com/yourusername/yourrepo
-# repo_name: yourusername/yourrepo
-# edit_uri: edit/main/docs/
-
-# Navigation
 nav:
   - Home: index.md
-  - Weekly Reflections:
+  - Reflections:
       - Week 1 - Communication/UX: weeks/week1.md
       - Week 2 - Reflection: weeks/week2.md
       - Week 3 - Reflection: weeks/week3.md
       - Week 4 - Reflection: weeks/week4.md
-  # - About: about.md
-  # - Contact: contact.md
 
-# Theme Configuration
 theme:
   name: material
   logo: assets/images/shb.png
@@ -31,33 +21,24 @@ theme:
     text: Merriweather Sans
     code: Red Hat Mono
   features:
-    # Navigation
-    - navigation.instant        # Fast page loading
-    - navigation.tracking       # URL updates with scroll
-    - navigation.tabs           # Top-level sections as tabs
-    - navigation.sections       # Section headers in sidebar
-    - navigation.expand         # Expand all sections by default
-    - navigation.top            # Back to top button
-    - navigation.footer         # Footer with prev/next links
-    - navigation.indexes        # Section index pages
-
-    # Search
-    - search.suggest            # Search suggestions
-    - search.highlight          # Highlight search terms
-    - search.share              # Share search results
-
-    # Content
-    - content.code.copy         # Copy button for code blocks
-    - content.code.annotate     # Code annotations
-    - content.tabs.link         # Link content tabs
-    - content.tooltips          # Improved tooltips
-
-    # Table of Contents
-    - toc.follow                # TOC follows scroll
-    - toc.integrate             # Integrate TOC in navigation
-
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    # - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - content.tooltips
+    - toc.follow
+    - toc.integrate
   palette:
-    # Dark Mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: light blue
@@ -65,7 +46,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-    # Light Mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: blue
@@ -74,9 +54,7 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
 
-# Markdown Extensions
 markdown_extensions:
-  # Basic extensions
   - abbr
   - attr_list
   - def_list
@@ -86,12 +64,8 @@ markdown_extensions:
   - toc:
       permalink: false
       toc_depth: 3
-
-  # Admonitions
   - admonition
   - pymdownx.details
-
-  # Code highlighting
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -104,8 +78,6 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-
-  # Content formatting
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
@@ -118,65 +90,20 @@ markdown_extensions:
   - pymdownx.magiclink:
       normalize_issue_symbols: true
       repo_url_shorthand: true
-
-  # Lists and tables
   - pymdownx.tasklist:
       custom_checkbox: true
       clickable_checkbox: true
-
-  # Emoji and icons
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-  # Tabs
   - pymdownx.tabbed:
       alternate_style: true
       combine_header_slug: true
 
-  # Math (if needed)
-  # - pymdownx.arithmatex:
-  #     generic: true
-
-# Plugins
 plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
       lang: en
-  # - tags  # Uncomment to enable tagging
-  # - git-revision-date-localized:  # Show last updated date
-  #     enable_creation_date: true
 
-# Extra Configuration
-# extra:
-  # Social links
-  # social:
-  #   - icon: fontawesome/brands/linkedin
-  #     link: https://linkedin.com/in/yourprofile
-  #     name: LinkedIn
-  #   - icon: fontawesome/brands/github
-  #     link: https://github.com/yourusername
-  #     name: GitHub
-  #   - icon: fontawesome/solid/envelope
-  #     link: mailto:your.email@example.com
-  #     name: Email
-    # - icon: fontawesome/brands/youtube
-    #   link: https://youtube.com/@yourchannel
-    #   name: YouTube
-
-  # Analytics (optional)
-  # analytics:
-  #   provider: google
-  #   property: G-XXXXXXXXXX
-
-  # Version selector (if you have multiple versions)
-  # version:
-  #   provider: mike
-
-# Custom CSS
 extra_css:
   - stylesheets/extra.css
-
-# Custom JavaScript (optional)
-# extra_javascript:
-#   - javascripts/extra.js
