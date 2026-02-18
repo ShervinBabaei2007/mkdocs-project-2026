@@ -4,8 +4,6 @@
 
 ---
 
-cheese banana
-
 ## Problem Statement & The Five Ws
 
 Writing a problem statement helped me step back and focus on **what problem [the website](https://www.pnwx.com/) is actually trying to solve**. Using the Five Ws gave structure to my thinking and prevented vague assumptions.

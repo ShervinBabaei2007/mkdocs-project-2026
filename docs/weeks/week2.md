@@ -2,6 +2,8 @@
 
 > **Summary:** This week examined core usability principles, design thinking, project planning, and market research to strengthen the foundation of the term project. Emphasis was placed on usability, credibility, accessibility, and structured problem-solving through the five stages of design thinking. Reviewing competitor websites and defining a formal proposal helped align the project with real-world standards and identify opportunities for improvement.
 
+apple
+
 ## Seven Usability Factors
 
 The seven usability factors play a key role in designing effective websites and products. They strongly influence how users interact with a system and perceive its quality.

@@ -3,6 +3,7 @@
 > **Summary:** This week focused on developing a deeper understanding of users through personas, user stories, and user scenarios. By defining realistic goals and task flows for different user types, the project clarified what the website must support and where friction currently exists. This process reinforced a user-centered mindset that guides design decisions based on real needs rather than assumptions.
 
 ---
+cheese
 
 ## Personas
 
