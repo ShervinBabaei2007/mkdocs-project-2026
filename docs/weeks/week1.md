@@ -2,8 +2,6 @@
 
 > **Summary:** This project involves analyzing and redesigning a website with poor UX, ultimately selecting Pacific Northwest X-Ray Inc. due to its cluttered layout, inconsistent styling, and overwhelming link structure. The goal is to document the full UX process independently while strengthening analytical, design, and documentation skills. This work will serve as both a learning experience and a potential portfolio case study.
 
-cho
-
 ## Task Overview
 
 For this course, I identified a website with poor user experience (UX) and communication, then used it throughout the term to document my design and analysis process.
