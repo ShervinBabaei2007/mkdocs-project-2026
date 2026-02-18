@@ -1,4 +1,4 @@
-# Reflection: Problem Definition, Ideation, and Information Architecture
+# Week 4: Reflection on Problem Definition, Ideation, and Information Architecture
 
 This week focused on clearly defining the problem before moving into design or development. Instead of jumping straight to solutions, the work emphasized understanding users, their goals, and how information should be structured to support them effectively.
 
@@ -12,7 +12,7 @@ Writing a problem statement helped me step back and focus on **what problem the 
 
 - **Who**: Identifying the users highlighted that different users have different goals, levels of experience, and time constraints.
 - **What**: Clarifying what the site offers helped define the main focus of the experience instead of trying to do everything at once.
-- **Where**: Recognizing that the site is accessed online emphasized the need for accessibility across devices.
+- **Where**: Recognizing that users access the site online emphasized the need for accessibility across devices.
 - **When**: Understanding that users often visit the site when they need information quickly reinforced the importance of efficiency.
 - **Why**: Defining the reason for the redesign made it clear that the goal is to reduce confusion and improve usability, not just to refresh the look.
 
@@ -20,7 +20,7 @@ Writing a problem statement helped me step back and focus on **what problem the 
 
 ## 2. Scope & Feature Definition
 
-Defining the scope helped set realistic boundaries for the project. Listing what would and would not be implemented ensured that the focus stayed on **structure and clarity**, rather than advanced functionality or visuals.
+Defining the scope helped set realistic boundaries for the project. Listing what would and wouldn't be implemented ensured that the focus stayed on **structure and clarity**, rather than advanced functionality or visuals.
 
 This step made it easier to prioritize essential work and avoid feature creep.
 
@@ -57,10 +57,10 @@ This step showed how organization directly affects usability.
 
 This week taught me the importance of **problem-first thinking**. By clearly defining users, goals, and structure early on, future design and development decisions become easier to justify and more user-focused.
 
-Instead of asking *“What features should this site have?”*, I am now asking:
+Instead of asking *"What features should this site have?"*, I'm now asking:
 
-- *“What is the user trying to do?”*
-- *“What information do they need right now?”*
-- *“What would slow them down or confuse them?”*
+- *"What is the user trying to do?"*
+- *"What information do they need right now?"*
+- *"What would slow them down or confuse them?"*
 
 This mindset will guide my future wireframes, layouts, and overall design decisions.

@@ -1,12 +1,12 @@
-# Week 2 What I Learned in ACIT 2811
+# Week 2: What I Learned in ACIT 2811
 
 ## 1. Seven Usability Factors
 
 The seven usability factors play a key role in designing effective websites and products. They strongly influence how users interact with a system and perceive its quality.
 
-The most important factors, in my view, are **usable**, **findable**, **credible**, and **accessible**, as they directly affect users’ ability to complete tasks.
+The most important factors, in my view, are **usable**, **findable**, **credible**, and **accessible**, as they directly affect users' ability to complete tasks.
 
-If a site is not usable or content is hard to find, users become frustrated and leave. Credibility builds trust, especially when users share personal or payment information. Accessibility ensures inclusive and ethical design. Without these factors, even visually appealing websites can fail.
+If a site isn't usable or content is hard to find, users become frustrated and leave. Credibility builds trust, especially when users share personal or payment information. Accessibility ensures inclusive and ethical design. Without these factors, even visually appealing websites can fail.
 
 ---
 

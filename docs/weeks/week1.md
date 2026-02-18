@@ -2,7 +2,7 @@
 
 ## 1. Task Overview
 
-For this course, I was asked to identify a website with poor user experience and communication, then use it throughout the term to document my design and analysis process.
+For this course, I identified a website with poor user experience and communication, then used it throughout the term to document my design and analysis process.
 
 ## 2. Website Selection Process
 
@@ -14,11 +14,11 @@ This website stood out for several UX issues. The design feels visually cluttere
 
 ![Website Screenshot](../assets/images/Website.png)
 
-[Visit the website](https://www.pnwx.com/)
+[Explore the Pacific Northwest X-Ray Inc. website](https://www.pnwx.com/)
 
 ## 4. Working Approach
 
-I am working alone on this project to maintain focus and strengthen my critical and analytical thinking skills.
+I'm working alone on this project to maintain focus and strengthen my critical and analytical thinking skills.
 
 ## 5. Course Goals
 
