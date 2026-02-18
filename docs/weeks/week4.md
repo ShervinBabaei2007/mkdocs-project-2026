@@ -1,5 +1,7 @@
 # Week 4: Reflection on Problem Definition, Ideation, and Information Architecture
 
+> **Summary:** This page covers my Week 4 work on problem definition, ideation techniques, and information architecture, and how these steps shaped my approach to the redesign.
+
 This week focused on clearly defining the problem before moving into design or development. Instead of jumping straight to solutions, the work emphasized understanding users, their goals, and how information should be structured to support them effectively.
 
 This process reinforced the idea that good design starts with understanding the problem, not making things look nice or adding extra features.

@@ -1,8 +1,10 @@
 # Week 1: Communication & UX
 
+> **Summary:** This page covers my website selection process for the term project, including why I chose Pacific Northwest X-Ray Inc. as my focus site for UX analysis.
+
 ## 1. Task Overview
 
-For this course, I identified a website with poor user experience and communication, then used it throughout the term to document my design and analysis process.
+For this course, I identified a website with poor user experience (UX) and communication, then used it throughout the term to document my design and analysis process.
 
 ## 2. Website Selection Process
 

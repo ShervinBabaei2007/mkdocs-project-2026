@@ -1,5 +1,7 @@
 # Week 3: What I Worked on in ACIT 2811
 
+> **Summary:** This page covers the user research work I completed in Week 3, including creating personas, writing user stories, and mapping user scenarios for the Pacific Northwest X-Ray (PNWX) redesign.
+
 This week focused on understanding users more deeply by creating **personas**, **user stories**, and **user scenarios**. Instead of guessing what users want, I had to clearly define who they are, what they need, and how they'd realistically interact with the website.
 
 This step helped slow me down and think before jumping into design solutions.
@@ -8,7 +10,7 @@ This step helped slow me down and think before jumping into design solutions.
 
 ## 1. Personas
 
-I created two primary personas to represent the main users of the Pacific Northwest X-Ray website.
+I created two primary personas to represent the main users of the PNWX website.
 
 **Dr. Sarah Martinez** represents experienced clinical decision-makers who need detailed product information, compliance documentation, and efficient reordering for multiple locations. She values accuracy, reliability, and time-saving tools.
 
@@ -39,7 +41,7 @@ User scenarios allowed me to walk through realistic tasks step by step, such as:
 - Comparing similar products
 - Viewing transparent pricing and adding items to a cart
 
-Mapping these flows showed where the current PNWX website creates friction and where a redesigned experience could remove unnecessary steps. It also helped me think about navigation, labeling, and content placement more intentionally.
+Mapping these flows showed where PNWX creates friction and where a redesigned experience could remove unnecessary steps. It also helped me think about navigation, labeling, and content placement more intentionally.
 
 ---
 

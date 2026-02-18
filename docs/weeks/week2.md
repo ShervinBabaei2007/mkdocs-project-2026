@@ -1,5 +1,7 @@
 # Week 2: What I Learned in ACIT 2811
 
+> **Summary:** This page covers the key concepts I learned in Week 2, including the seven usability factors, design thinking, the term project proposal, and my initial market research.
+
 ## 1. Seven Usability Factors
 
 The seven usability factors play a key role in designing effective websites and products. They strongly influence how users interact with a system and perceive its quality.
@@ -26,7 +28,7 @@ The design thinking process includes five stages:
 
 ## 3. Term Project Proposal
 
-We were required to create a proposal outlining our goals for the term project. Progress will be evaluated against this proposal, reflecting real-world expectations of accountability and performance.
+We were required to create a proposal outlining our goals for the term project. Our instructor will evaluate progress against this proposal, reflecting real-world expectations of accountability and performance.
 
 This process emphasizes the importance of setting realistic goals and tracking progress, similar to professional project management.
 
