@@ -1,14 +1,10 @@
-# Week 3: What I Worked on in ACIT 2811
+# What I Worked on in ACIT 2811
 
-> **Summary:** This page covers the user research work I completed in Week 3, including creating personas, writing user stories, and mapping user scenarios for the Pacific Northwest X-Ray (PNWX) redesign.
-
-This week focused on understanding users more deeply by creating **personas**, **user stories**, and **user scenarios**. Instead of guessing what users want, I had to clearly define who they are, what they need, and how they'd realistically interact with the website.
-
-This step helped slow me down and think before jumping into design solutions.
+> **Summary:** This week focused on developing a deeper understanding of users through personas, user stories, and user scenarios. By defining realistic goals and task flows for different user types, the project clarified what the website must support and where friction currently exists. This process reinforced a user-centered mindset that guides design decisions based on real needs rather than assumptions.
 
 ---
 
-## 1. Personas
+## Personas
 
 I created two primary personas to represent the main users of the PNWX website.
 
@@ -20,7 +16,7 @@ Creating these personas helped me design for **real people with different goals*
 
 ---
 
-## 2. User Stories
+## User Stories
 
 User stories helped translate each persona's needs into clear goals. Writing them in the "As a user, I want…" format made it easier to stay focused on outcomes instead of features.
 
@@ -33,7 +29,7 @@ These stories clarified *why* certain features matter and helped prioritize what
 
 ---
 
-## 3. User Scenarios
+## User Scenarios
 
 User scenarios allowed me to walk through realistic tasks step by step, such as:
 
@@ -45,7 +41,7 @@ Mapping these flows showed where PNWX creates friction and where a redesigned ex
 
 ---
 
-## 4. What I Learned
+## What I Learned
 
 This week reinforced how important it is to **design from the user's perspective**, not my own. Personas, stories, and scenarios gave structure to my thinking and made design decisions easier to justify.
 
