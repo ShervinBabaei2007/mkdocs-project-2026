@@ -1,5 +1,5 @@
 site_name: Shervin Babaei Documentation
-site_url: https://sitename.example
+site_url: https://shervinbabaei2007.github.io/mkdocs-project-2026/
 site_description: Weekly reflections on UX design, usability, and development practices
 site_author: Shervin Babaei
 copyright: "Copyright © 2026 Shervin Babaei"
@@ -16,7 +16,7 @@ nav:
 theme:
   name: material
   logo: assets/images/shb.png
-  favicon: assets/images/favicon.ico
+  # favicon: assets/images/favicon.ico
   language: en
   font:
     text: Roboto
