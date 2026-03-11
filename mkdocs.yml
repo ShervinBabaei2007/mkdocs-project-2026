@@ -7,10 +7,11 @@ copyright: "Copyright © 2026 Shervin Babaei"
 nav:
   - Home: index.md
   - Reflections:
-      - Week 1 - Communication & UX: weeks/week1.md
-      - Week 2 - Usability Factors: weeks/week2.md
-      - Week 3 - User-Centered Design: weeks/week3.md
-      - Week 4 - Ideation: weeks/week4.md
+      - Communication & UX: weeks/week1.md
+      - Usability Factors: weeks/week2.md
+      - User-Centered Design: weeks/week3.md
+      - Ideation: weeks/week4.md
+      - User Flows & Wireframes: weeks/week7-8.md
 
 theme:
   name: material
@@ -26,6 +27,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.top
+    - navigation.footer
     - search.suggest
     - search.highlight
     - content.code.copy

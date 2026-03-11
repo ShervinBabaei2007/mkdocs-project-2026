@@ -12,9 +12,11 @@ I began by reviewing X-ray–related websites with weak UX and communication. Af
 
 ## Rationale for Selection
 
-This website stood out for several UX issues. The design feels visually cluttered, with excessive colors and inconsistent styling that detract from the user experience. The frequent use of yellow underlined links reduces emphasis on the most important content, making it difficult for users to prioritize information. Additionally, many links compete for attention across the interface. I believe condensing these into fewer, higher-priority options would significantly improve readability and user interaction.
+This website stood out for several UX issues. The design feels visually cluttered, with excessive colors and inconsistent styling that detract from the user experience.
 
 ![Website Screenshot](../assets/images/Website.png)
+
+The frequent use of yellow underlined links reduces emphasis on the most important content, making it difficult for users to prioritize information. Additionally, many links compete for attention across the interface. I believe condensing these into fewer, higher-priority options would significantly improve readability and user interaction.
 
 [Explore the Pacific Northwest X-Ray Inc. website](https://www.pnwx.com/)
 
