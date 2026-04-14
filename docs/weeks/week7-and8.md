@@ -6,7 +6,7 @@
 
 ## From User Stories to User Flows
 
-If you haven't read Week 3 yet, that's where I developed the personas and user stories that drive this work. Each user flow here maps directly to one of those three user stories.
+If you haven't read [Week 3](week3.md) yet, that's where I developed the personas and user stories that drive this work. Each user flow here maps directly to one of those three user stories.
 
 Personally, creating the flows felt manageable because I already had a clear picture of how users would move through the site. The goal was to make those mental models visible and testable.
 
@@ -27,7 +27,7 @@ The layouts prioritize two things:
 - **Simplified navigation** - fewer clicks to reach key content
 - **Improved content hierarchy** - most important information appears first, so users can scan without scrolling far
 
-Working at low fidelity kept me focused on structure and usability. I deliberately avoided styling decisions — those come later.
+Working at low fidelity kept me focused on structure and usability. I deliberately avoided styling decisions - those come later.
 
 ---
 

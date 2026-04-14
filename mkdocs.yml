@@ -6,7 +6,6 @@ copyright: "Copyright © 2026 Shervin Babaei"
 
 nav:
   - Home: index.md
-  - Glossary: glossary.md
   - Reflections:
       - Communication & UX: weeks/week1.md
       - Usability Factors: weeks/week2.md
@@ -15,6 +14,7 @@ nav:
       - User Flows & Wireframes: weeks/week7-and8.md
       - Low Fidelity Wireframes: weeks/week10.md
       - High Fidelity Wireframes: weeks/week11-12.md
+  - Glossary: glossary.md
 
 theme:
   name: material

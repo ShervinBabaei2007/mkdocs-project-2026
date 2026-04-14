@@ -8,7 +8,7 @@ For this course, I identified a website with poor user experience (UX) and commu
 
 ## Website Selection Process
 
-I began by reviewing X-ray–related websites with weak UX and communication. After narrowing down my options to three candidates—[Craigslist](https://www.craigslist.com), the [West Vancouver Recreation Center](https://westvancouver.ca/parks-recreation/facilities/west-vancouver-community-centre-aquatic-centre), and [Pacific Northwest X-Ray Inc.](https://www.pnwx.com/)—I evaluated each through discussion and analysis using ChatGPT. Ultimately, I selected **Pacific Northwest X-Ray Inc.** as my focus.
+I began by reviewing X-ray–related websites with weak UX and communication. After narrowing down my options to three -[Craigslist](https://www.craigslist.com), the [West Vancouver Recreation Center](https://westvancouver.ca/parks-recreation/facilities/west-vancouver-community-centre-aquatic-centre), and [Pacific Northwest X-Ray Inc.](https://www.pnwx.com/)-I evaluated each through discussion and analysis using ChatGPT. Ultimately, I selected **Pacific Northwest X-Ray Inc.** as my focus.
 
 ## Rationale for Selection
 

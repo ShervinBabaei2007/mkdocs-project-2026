@@ -6,7 +6,7 @@
 
 ## How the Testing Worked
 
-If you haven't seen the wireframes yet, check out [Week 7/8](./week7-8.md) for context on what I built and why.
+If you haven't seen the wireframes yet, check out [Week 7/8](week7-and8.md) for context on what I built and why.
 
 In small groups, each person presented their wireframes to a partner while that partner tried to complete basic tasks - finding a product, navigating to a specific section, and so on. As the designer, I watched without explaining anything. That silence is important: if you're narrating, you're compensating for a design problem.
 
