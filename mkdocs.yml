@@ -6,6 +6,7 @@ copyright: "Copyright © 2026 Shervin Babaei"
 
 nav:
   - Home: index.md
+  - Glossary: glossary.md
   - Reflections:
       - Communication & UX: weeks/week1.md
       - Usability Factors: weeks/week2.md

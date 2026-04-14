@@ -51,4 +51,4 @@ Instead of asking "What should the website include?", I'm now asking:
 - "What information do they need right now?"
 - "What would slow them down or confuse them?"
 
-This shift will strongly guide my future & also current wireframes and design decisions.
+This shift now guides every wireframe and design decision I make in the future.

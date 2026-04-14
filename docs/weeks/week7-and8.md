@@ -1,11 +1,36 @@
-# User Flow & Low Fidelity Wireframes
+# User Flow & Low-Fidelity Wireframes
 
-This week was quite heavy in terms of workload. It is also worth noting that our instructor Chris had been away sick for 2–3 weeks prior, so we were catching up on a significant amount of work all at once.
+> **Summary:** This week covered two major deliverables: user flows and low-fidelity wireframes. Building on the personas and user stories from Week 3, I mapped out how each user type moves through the site, then translated those paths into wireframe layouts using Figma. The focus stayed on structure and navigation - not visual styling.
 
-Our instructor asked us to create three user flows based on the three user stories we had previously developed. Personally, this was a manageable task for me since I already had a clear vision of how users would interact with the product and move through the website.
+---
 
-Following the user flows, we moved on to low-fidelity wireframes. The instructor suggested creating them on paper first, but I found that approach difficult to iterate on quickly. Instead, I used Figma, which allowed me to rapidly experiment with layouts and visualize the structure of the redesigned website.
+## From User Stories to User Flows
+
+If you haven't read Week 3 yet, that's where I developed the personas and user stories that drive this work. Each user flow here maps directly to one of those three user stories.
+
+Personally, creating the flows felt manageable because I already had a clear picture of how users would move through the site. The goal was to make those mental models visible and testable.
+
+---
+
+## Why I Skipped Paper Wireframes
+
+Our instructor suggested starting on paper, but I found it hard to iterate quickly that way. Figma let me experiment with layouts faster and gave me a cleaner record to build on in future weeks.
 
 ![Low Fidelity Wireframes](../assets/images/FigmaWireframe.png)
 
-The wireframes focus on simplifying navigation and improving content hierarchy. Key information is placed higher on the page, and sections are organized so users can quickly scan for products or documentation. Working in low fidelity also helped me concentrate on structure and usability rather than visual styling.
+---
+
+## What the Wireframes Focus On
+
+The layouts prioritize two things:
+
+- **Simplified navigation** - fewer clicks to reach key content
+- **Improved content hierarchy** - most important information appears first, so users can scan without scrolling far
+
+Working at low fidelity kept me focused on structure and usability. I deliberately avoided styling decisions — those come later.
+
+---
+
+## What I Learned
+
+Translating user stories into actual screen layouts makes abstract goals concrete. When I asked "where does this user go next?", the answer often revealed gaps in the original site's structure that text analysis alone had missed.

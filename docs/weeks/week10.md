@@ -1,9 +1,35 @@
-# Low Fidelity Wireframes Testing
+# Low-Fidelity Wireframe Testing
 
-In today’s class, we brought our completed low-fidelity paper wireframes and conducted user testing in small groups. Each participant took turns presenting their wireframes to another person, while also interacting with other people’s designs. The goal was to simulate how real users would navigate the interface, allowing us (as designers) to observe usability, clarity, and overall flow.
+> **Summary:** This week I tested the low-fidelity wireframes built in Week 7/8 with real users in class. The goal was to watch how people navigated the designs and spot confusion before moving to high-fidelity work. Results were mostly positive, with only minor layout adjustments needed.
 
-During the testing process, users were asked to perform basic tasks using the wireframes. As they interacted with the designs, I paid close attention to where they hesitated, became confused, or required additional explanation. This helped identify areas where the layout, labeling, or navigation could be improved. Because the wireframes were paper-based, it was easy to simulate interactions by switching between screens.
+---
 
-Overall, the feedback I received was very positive. Most users were able to navigate my design smoothly without major confusion, which suggests that the structure and user flow were clear and intuitive. There were only a few minor issues identified, such as small labeling or layout improvements, but nothing that significantly impacted usability.
+## How the Testing Worked
 
-As a result, I feel confident that my wireframes are strong and effective, with only minor refinements needed before moving on to higher-fidelity designs.
+If you haven't seen the wireframes yet, check out [Week 7/8](./week7-8.md) for context on what I built and why.
+
+In small groups, each person presented their wireframes to a partner while that partner tried to complete basic tasks - finding a product, navigating to a specific section, and so on. As the designer, I watched without explaining anything. That silence is important: if you're narrating, you're compensating for a design problem.
+
+---
+
+## What I Observed
+
+I paid attention to three things:
+
+- **Where users hesitated** - a pause usually means a label or layout choice isn't clear
+- **Where they asked questions** - questions reveal assumptions the design makes that users don't share
+- **Where they moved quickly** - that's confirmation the structure is working
+
+---
+
+## Feedback & Findings
+
+Most users moved through my design without major confusion. The overall structure and flow held up well. A few small issues came up - minor labeling tweaks and one layout adjustment - but nothing that changed the core structure.
+
+No major redesign is needed before moving to high-fidelity wireframes.
+
+---
+
+## What I Learned
+
+Watching someone use your design without coaching is uncomfortable, but it's the most honest feedback you can get. The small issues I found here are far cheaper to fix now than after investing time in high-fidelity work.
