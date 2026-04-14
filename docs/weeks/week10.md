@@ -1,6 +1,6 @@
 # Low-Fidelity Wireframe Testing
 
-> **Summary:** This week I tested the low-fidelity wireframes built in Week 7/8 with real users in class. The goal was to watch how people navigated the designs and spot confusion before moving to high-fidelity work. Results were mostly positive, with only minor layout adjustments needed.
+> **Summary:** This week I tested the low-fidelity wireframes built in Week 7/8 with real users in class. The goal was to observe how users navigate the designs and identify confusion before moving to high-fidelity work. The results were mostly positive, with only minor layout adjustments needed.
 
 ---
 
@@ -8,7 +8,7 @@
 
 If you haven't seen the wireframes yet, check out [Week 7/8](week7-and8.md) for context on what I built and why.
 
-In small groups, each person presented their wireframes to a partner while that partner tried to complete basic tasks - finding a product, navigating to a specific section, and so on. As the designer, I watched without explaining anything. That silence is important: if you're narrating, you're compensating for a design problem.
+In small groups, each person presented their wireframes to a partner while that partner tried to complete basic tasks - finding a product, navigating to a specific section, and so on. As the designer, I watched without explaining anything. That silence matters: if you're narrating, you're compensating for a design problem.
 
 ---
 

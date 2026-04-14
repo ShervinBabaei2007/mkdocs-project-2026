@@ -1,6 +1,6 @@
 # User Research: Personas, Stories, and Scenarios
 
-> **Summary:** This week focused on developing a deeper understanding of users through personas, user stories, and user scenarios. By defining realistic goals and task flows for different user types, the project clarified what the website must support and where friction currently exists. This process reinforced a user-centered mindset that guides design decisions based on real needs rather than assumptions.
+> **Summary:** This week, I focused on developing a deeper understanding of users through personas, user stories, and user scenarios. By defining realistic goals and task flows for different user types, the project clarified what the website must support and where friction currently exists. This process helped me reinforce a user-centered mindset that guides design decisions based on real needs rather than assumptions.
 
 ---
 
@@ -18,7 +18,7 @@ Creating these personas helped me design for **real people with different goals*
 
 ## User Stories
 
-User stories helped translate each persona's needs into clear goals. Writing them in the "As a user, I want…" format made it easier to stay focused on outcomes instead of features.
+User stories helped me translate each persona's needs into clear goals. Writing them in the "As a user, I want…" format made it easier to stay focused on outcomes instead of features.
 
 For example:
 
@@ -31,7 +31,7 @@ These stories clarified *why* certain features matter and helped prioritize what
 
 ## User Scenarios
 
-User scenarios allowed me to walk through realistic tasks step by step, such as:
+User scenarios helped me walk through realistic tasks step by step, such as:
 
 - Downloading product specification sheets
 - Comparing similar products

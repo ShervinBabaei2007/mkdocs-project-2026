@@ -1,6 +1,6 @@
 # Communication & UX
 
-> **Summary:** This project involves analyzing and redesigning a website with poor UX, ultimately selecting Pacific Northwest X-Ray Inc. due to its cluttered layout, inconsistent styling, and overwhelming link structure. The goal is to document the full UX process independently while strengthening analytical, design, and documentation skills. This work will serve as both a learning experience and a potential portfolio case study.
+> **Summary:** In this project, I analyze and redesign a website with poor UX. I selected Pacific Northwest X-Ray Inc. because of its cluttered layout, inconsistent styling, and overwhelming link structure. My goal is to document the full UX process independently while strengthening my analytical, design, and documentation skills. This work will serve as both a learning experience and a potential portfolio case study.
 
 ## Task Overview
 

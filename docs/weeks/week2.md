@@ -1,6 +1,6 @@
 # Usability Principles & Market Research
 
-> **Summary:** This week examined core usability principles, design thinking, project planning, and market research to strengthen the foundation of the term project. Emphasis was placed on usability, credibility, accessibility, and structured problem-solving through the five stages of design thinking. Reviewing competitor websites and defining a formal proposal helped align the project with real-world standards and identify opportunities for improvement.
+> **Summary:** This week, I looked at core usability principles, design thinking, project planning, and market research to strengthen the foundation of the term project. I focused on usability, credibility, accessibility, and structured problem-solving through the five stages of design thinking. I reviewed competitor websites and defined a formal proposal, which helped align the project with real-world standards and identified opportunities for improvement.
 
 ## Seven Usability Factors
 
@@ -14,9 +14,9 @@ If a site isn't usable or content is hard to find, users become frustrated and l
 
 ## Design Thinking
 
-Design thinking is a user-centered approach focused on understanding users before proposing solutions. Although the process can feel abstract at first, it helps prevent jumping to conclusions without fully defining the problem.
+I used design thinking, a user-centered approach focused on understanding users before proposing solutions. Although the process can feel abstract at first, it helps prevent jumping to conclusions without fully defining the problem.
 
-The design thinking process includes five stages:
+The design thinking process has five stages:
 
 - **Empathize:** Understand users through observation and feedback
 - **Define:** Clearly identify the core problem

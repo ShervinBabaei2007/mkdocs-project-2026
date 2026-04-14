@@ -1,6 +1,6 @@
 # User Flow & Low-Fidelity Wireframes
 
-> **Summary:** This week covered two major deliverables: user flows and low-fidelity wireframes. Building on the personas and user stories from Week 3, I mapped out how each user type moves through the site, then translated those paths into wireframe layouts using Figma. The focus stayed on structure and navigation - not visual styling.
+> **Summary:** This week, I worked on two major deliverables: user flows and low-fidelity wireframes. I built on the personas and user stories from Week 3 by mapping out how each user type moves through the site, then translated those paths into wireframe layouts using Figma. I focused on structure and navigation - not visual styling.
 
 ---
 
@@ -8,7 +8,7 @@
 
 If you haven't read [Week 3](week3.md) yet, that's where I developed the personas and user stories that drive this work. Each user flow here maps directly to one of those three user stories.
 
-Personally, creating the flows felt manageable because I already had a clear picture of how users would move through the site. The goal was to make those mental models visible and testable.
+Personally, creating the flows felt manageable because I already had a clear picture of how users would move through the site. My goal was to make those mental models visible and testable.
 
 ---
 

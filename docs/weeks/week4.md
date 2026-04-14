@@ -1,6 +1,6 @@
 # Problem Definition, Ideation, and Information Architecture
 
-> **Summary:** This week focused on defining the core problem before beginning design, emphasizing user needs, goals, and clear information structure over visuals or features. Through the Five Ws, scope definition, ideation, and Information Architecture, the project established a logical, user-centered foundation for improving navigation and usability. Overall, the process reinforced a problem-first mindset that will guide future design and development decisions.
+> **Summary:** This week, I focused on defining the core problem before beginning design. I emphasized user needs, goals, and clear information structure over visuals or features. Through the Five Ws, scope definition, ideation, and Information Architecture, the project established a logical, user-centered foundation for improving navigation and usability. Overall, this process reinforced a problem-first mindset that will guide future design and development decisions.
 
 ---
 
@@ -42,9 +42,9 @@ This step made it easier to prioritize essential work and avoid feature creep.
 
 ## Ideation Process
 
-The ideation phase encouraged generating ideas without judgment. Techniques such as brainstorming, worst possible ideas, and Crazy 8s helped expand my thinking and explore a wide range of possibilities.
+During ideation, I generated ideas without judgment. Techniques such as brainstorming, worst possible ideas, and Crazy 8s helped expand my thinking and explore a wide range of possibilities.
 
-Brainstorming allowed me to consider multiple approaches to organizing content and navigation. This helped surface different ways users might move through the site and access information.
+Brainstorming helped me consider multiple approaches to organizing content and navigation. This helped surface different ways users might move through the site and access information.
 
 The worst possible idea technique was useful for identifying common usability mistakes. By intentionally thinking about bad design choices, it became easier to recognize what should be avoided in the final structure.
 
@@ -56,10 +56,10 @@ Overall, this phase emphasized generating a high quantity of ideas rather than f
 
 ## Information Architecture (IA)
 
-Information Architecture tied everything together by focusing on how users find information.
+I used Information Architecture to tie everything together by focusing on how users find information.
 
 - Navigation hierarchy helped balance between deep and shallow structures.
-- Labelling required using language that makes sense to users rather than internal terminology.
+- I used labels that match user language rather than internal terminology.
 - Creating a content inventory and sitemap clarified how all pages relate to each other.
 - Wireframes helped visualize structure without being distracted by styling.
 
