@@ -1,87 +1,44 @@
-# Welcome
+# UX Redesign Case Study - Pacific Northwest X-Ray Inc
 
-I'm Shervin Babaei, and this is my documentation site for **ACIT 2811 (UX/UI)**.
-
-This site is a **UX redesign case study** where I analyze and improve a real-world website with poor usability. Each week documents my process, from research and user analysis to wireframes and final design decisions.
+**Shervin Babaei · ACIT 2811 UX/UI · BCIT · Winter 2026**
 
 ---
 
-## Who This Is For
+## The Project
 
-This site is written for:
+[Pacific Northwest X-Ray Inc.](https://www.pnwx.com/) is a medical imaging supplier whose website makes it genuinely difficult for busy clinicians to find products, verify specifications, or complete a purchase. This site documents my end-to-end UX redesign process - from problem definition through tested, high-fidelity wireframes.
 
-- **Instructors** evaluating my work
-- **Classmates** following the same UX process
-
-It may also be useful for anyone interested in:
-
-- UX design
-- Website usability improvements
-- Real-world design case studies
+This is independent work, completed as a term-long case study.
 
 ---
 
-## Tone & Writing Approach
+## What the Process Covered
 
-The goal is to write like I’m explaining my work to a colleague:
-
-- Clear
-- Direct
-- Reflective
-
-I use a conversational tone with simple language so ideas are easy to follow.
-
-**Tone feedback (peer-reviewed):**
-
-- Clear
-- Structured
-- Slightly conversational
+- **User research** - personas, user stories, and task scenarios grounded in real clinical workflows
+- **Information architecture** - sitemap and navigation restructure using user-language labels
+- **Low-fidelity wireframes** - three core screens built in Figma, tested with real users in class
+- **Usability testing** - observed task completion, identified labeling issues before high-fidelity work began
+- **High-fidelity wireframes** - visual design system (typography, color palette, layout) anchored to Nielsen Norman heuristics
 
 ---
 
-## Writing Quality Checks
+## The Problem in One Sentence
 
-To improve clarity and readability, I reviewed my writing using:
-
-- **Grammarly and AI** (conciseness + grammar)
-- **Manual editing** (active voice + clarity)
+The original site organizes content around internal business categories rather than the tasks its users are actually trying to complete.
 
 ---
 
-## What You'll Find Here
+## Outcomes
 
-This site documents my learning and practical work in:
-
-- UX design principles and usability
-- Design thinking process
-- User research (personas, stories, scenarios)
-- Information architecture and navigation
-- Wireframing and prototyping (Figma)
-- Real-world UX redesign decisions
+- Simplified navigation from overlapping multi-section structure to a single consistent top bar
+- Reduced click depth to reach a product detail page
+- Visual design system with three colors, each with a single defined role - eliminating the six competing accent colors on the original site
+- Usability test confirmed users navigated key flows without coaching or confusion
 
 ---
 
-## Weekly Reflections
+## How to Read This Site
 
-Each week focuses on a specific part of the UX process.
-
-You’ll see:
-
-- What I worked on
-- Why I made certain decisions
-- What I learned from the process
+The weekly reflections run in order - each stage builds on the last. Start at [Week 1](weeks/week1.md) or use the navigation on the left.
 
 ---
-
-## Navigation
-
-- **Home** - Overview of the project
-- **Weekly Reflections** - Step-by-step UX process
-- **Glossary** - Definitions of UX terms used
-
----
-
-## Course
-
-**ACIT 2811 – UX/UI**
-**Term:** Winter 2026
