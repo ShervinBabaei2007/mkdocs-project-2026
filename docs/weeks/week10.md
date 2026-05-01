@@ -24,12 +24,17 @@ I paid attention to three things:
 
 ## Feedback & Findings
 
-Most users moved through my design without major confusion. The overall structure and flow held up well. A few small issues came up - minor labeling tweaks and one layout adjustment - but nothing that changed the core structure.
+Most users moved through my design without major confusion. The overall structure and flow held up well. A few small issues came up:
+
+- The **filter panel label** on the category page wasn't immediately obvious as interactive - users paused briefly before engaging with it. A minor heading change resolved this.
+- One participant wasn't sure whether the search bar was site-wide or category-scoped. Adding a small placeholder label ("Search all products") clarifies this without a layout change.
 
 No major redesign is needed before moving to high-fidelity wireframes.
 
 ---
 
-## What I Learned
+## What I Learned & How It Applies
 
-Watching someone use your design without coaching is uncomfortable, but it's the most honest feedback you can get. The small issues I found here are far cheaper to fix now than after investing time in high-fidelity work.
+The most useful moment in the session wasn't a failure - it was watching a user move through the product detail page quickly and without hesitation. That confirmed the layout decision from Week 7/8: putting the product name, price, and call-to-action button above the fold, with specs below, is the right structure for this audience.
+
+The two small issues that surfaced were both labeling problems, not structural ones. This distinction matters: a structural problem at this stage would require rethinking the wireframe; a labeling problem is a quick fix. Catching both early - before any visual design work - meant the high-fidelity wireframes in Week 11/12 could be built on a tested, stable foundation rather than a set of untested assumptions.

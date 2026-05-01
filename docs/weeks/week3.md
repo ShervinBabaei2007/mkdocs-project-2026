@@ -41,14 +41,8 @@ Mapping these flows showed where PNWX creates friction and where a redesigned ex
 
 ---
 
-## What I Learned
+## What I Learned & How It Applies
 
-This week reinforced how important it is to **design from the user's perspective**, not my own. Personas, stories, and scenarios gave structure to my thinking and made design decisions easier to justify.
+The most direct impact of this week's work was on navigation labeling. When I tried to walk through PNWX from Dr. Sarah's perspective - someone who knows exactly what she's looking for - the current category structure forced her into multiple dead ends before surfacing the right product page. Mike's scenario was even harder: pricing is buried or absent, which is a dealbreaker for someone managing a tight budget without technical support.
 
-Instead of asking "What should the website include?", I'm now asking:
-
-- "What is the user trying to do?"
-- "What information do they need right now?"
-- "What would slow them down or confuse them?"
-
-This shift now guides every wireframe and design decision I make in the future.
+These scenarios became my **usability test criteria** for later stages. Rather than evaluating the redesign on aesthetics, I could ask a concrete question: can Dr. Sarah download a spec sheet in under three clicks, and can Mike see pricing without contacting sales? Framing the design problem that specifically made every subsequent layout decision easier to justify.

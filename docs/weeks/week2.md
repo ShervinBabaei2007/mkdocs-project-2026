@@ -58,8 +58,16 @@ Despite these issues, the site demonstrates a stronger hierarchy than the PNWX w
 ![GE Healthcare Shop website](../assets/images/GEHealthCareShop.png)
 *Figure 2: GE Healthcare Shop homepage*
 
-GE Healthcare’s store is more complex because it supports a large catalog of medical equipment and parts. While the site contains extensive product information, the layout feels somewhat inconsistent across sections.
+GE Healthcare's store is more complex because it supports a large catalog of medical equipment and parts. While the site contains extensive product information, the layout feels somewhat inconsistent across sections.
 
 Navigation menus and product pages sometimes use different visual structures, which can make the experience feel fragmented. However, the site performs well in terms of credibility, branding, and access to technical documentation.
 
 Reviewing this site helped me understand how large healthcare companies organize extensive product catalogs and technical resources.
+
+---
+
+## What I Learned & How It Applies
+
+Mapping the seven usability factors directly against PNWX made abstract principles concrete. The site scores poorly on **findability** - category labels use internal jargon rather than the language a busy clinician would type into a search bar - and on **credibility**, since inconsistent styling and competing visual elements make the site feel unmaintained.
+
+The competitor analysis sharpened my benchmark. ProboMedical showed that a cleaner content hierarchy is achievable without sacrificing product depth. GE Healthcare showed that large catalogs need strong filtering and consistent page templates or users lose their place. Both observations fed directly into my proposal: the PNWX redesign needs simplified navigation labels, a consistent page structure, and a visual hierarchy where the most important actions are unmistakably prominent.

@@ -18,7 +18,7 @@ Writing a problem statement helped me step back and focus on **what problem [the
 
 - **Why**: Defining the reason for the redesign made it clear that the goal is to reduce confusion and improve usability, not just to refresh the look.
 
-## My website Five Ws
+## My Website Five Ws
 
 - **Who**: The primary users are medical professionals working in clinical or industry environments. They may have limited time and need fast, reliable access to products and information.
 
@@ -67,14 +67,8 @@ This step showed how organization directly affects usability.
 
 ---
 
-## What I Learned
+## What I Learned & How It Applies
 
-This week taught me the importance of **problem-first thinking**. By clearly defining users, goals, and structure early on, future design and development decisions become easier to justify and more user-focused.
+The Five Ws framework made the most direct difference to this project when applied to the **"Why"** question. PNWX's current design reads as though it was built around internal categories - the way the business organizes its inventory - rather than around the tasks users are actually trying to complete. Reframing the redesign goal from "update the look" to "reduce the number of steps a clinician needs to find and verify a product" changed every subsequent structural decision.
 
-Instead of asking *"What features should this site have?"*, I'm now asking:
-
-- *"What is the user trying to do?"*
-- *"What information do they need right now?"*
-- *"What would slow them down or confuse them?"*
-
-This mindset will guide my future wireframes, layouts, and overall design decisions.
+The IA work translated that reframing into concrete choices. Collapsing redundant top-level navigation categories (PNWX currently has overlapping product, service, and resource sections) and relabeling them in plain clinical language directly addresses the friction identified in the Week 3 scenarios. The sitemap I built here became the skeleton that the Week 7/8 wireframes were drawn on - without it, those layouts would have been guesswork.
