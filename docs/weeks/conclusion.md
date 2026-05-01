@@ -33,12 +33,24 @@ The project was most effective when earlier decisions constrained later ones in 
 ## Key Design Decisions & Their Outcomes
 
 | Decision | Rationale | Outcome |
-|---|---|---|
+| --- | --- | --- |
 | Consolidated navigation labels | IA research: existing labels used internal jargon | Users navigated category pages without hesitation in testing |
 | Search bar above the fold | User scenarios: experienced users arrive with a specific product in mind | Reduced reliance on browsing for task-oriented users |
 | Price and CTA above fold on product pages | Mike persona: budget-conscious, non-technical | Eliminated the need to scroll before making a purchase decision |
 | Three-color system with green CTAs only | Heuristic #4 (Consistency): original site had 6+ competing accent colors | Visual hierarchy is clear; action points are unambiguous |
 | Filter panel on category pages | Dr. Sarah persona: needs to narrow by specification quickly | Reduced the click depth to reach a specific product |
+
+---
+
+## Final Wireframes
+
+The screens below show the completed high-fidelity design - homepage and product detail page - representing the full visual system applied to the tested wireframe structure.
+
+![Final Desktop — Homepage](../assets/images/Desktop%20Product%20Home.png)
+*Figure 1: Home Page*
+
+![Final Desktop — Product Detail](../assets/images/Desktop%20Product%20copy.png)
+*Figure 2: All product page*
 
 ---
 
